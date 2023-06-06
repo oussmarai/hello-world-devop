@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning with O'reilly</h1>
+    <h1>Updated! - New user Register for DevOps Learning with O'reilly</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
     <br />
@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thank you, Happy Learning </h1>
 
   
 </form>
